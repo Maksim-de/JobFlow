@@ -1,0 +1,10 @@
+aiogram==3.15.0
+python-dotenv
+openai
+PyPDF2
+requests
+aioschedule
+asyncpg 
+bs4
+markdown
+yookassa
