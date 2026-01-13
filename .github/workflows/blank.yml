@@ -21,4 +21,4 @@ jobs:
           pip install pytz bs4 requests beautifulsoup4 psycopg2-binary
 
       - name: Run parser
-        run: python main.py
+        run: python parser.py
